@@ -23,6 +23,18 @@
     <span class="pl-c"><span class="pl-c">5)</span> Ordenar os itens pelo número randômico e criar um Array apenas com os números de 1 a 5 já embaralhados.</span><br/>
     <span class="pl-c"><span class="pl-c">6)</span> Retornar a sequência gerada utilizando o método Join para transformar o Array em uma String.</span><br/>
     <span class="pl-c"><span class="pl-c">7)</span> Exibir a sequência de números embaralhados.</span>
+    <h2>:information_source:</a> Como usar </h2>
+    <p>Para clonar e executar este aplicativo, você precisará do <a href="https://dotnet.microsoft.com/en-us/download/dotnet/3.0" rel="nofollow">.NET Core 3.0</a>. No terminal execute os seguintes comandos:</p>
+    <div class="highlight highlight-source-shell">
+      <pre><span class="pl-c"><span class="pl-c">#</span> Clonar o repositório</span>
+        $ git clone https://github.com/fnascimento00/EmbaralharNumeros <br/>
+      <span class="pl-c"><span class="pl-c">#</span> Vá para o repositório</span>
+        $ <span class="pl-c1">cd</span> EmbaralharNumeros <br/>
+      <span class="pl-c"><span class="pl-c">#</span> Compile a aplicação</span>
+        $ dotnet build <br/>
+      <span class="pl-c"><span class="pl-c">#</span> Execute a aplicação</span>
+        $ dotnet run <br/>
+    </div>
     <h2>:pencil: Licença</h2>
     <p>Este projeto está sob a licença do MIT. Veja o em <a href="https://github.com/fnascimento00/EmbaralharNumeros/blob/master/LICENSE.txt" rel="nofollow">LICENSE</a> para maiores informações.</p>
     <hr>
