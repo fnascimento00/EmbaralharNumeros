@@ -16,13 +16,13 @@
     <h2>:thinking: Problema Proposto para o Algoritmo</h2>
     <p>A proposta do algoritmo é gerar uma lista com 5 números começando com 1 e terminando com 5, embaralhar os números e retornar a sequência de números gerada.</p>
     <h2>:man_technologist: Estrutura do Código Fonte</h2>
-        1) Criar uma função para gerar a sequência de números.
-        2) Criar uma lista do tipo dicionário para armarzenar dois valores inteiros.
-        3) Fazer um loop com a quantidade de iterações definida no parâmetro da função. 
-        4) Para cada iteração do loop adicionar o item no dicionário onde o primeiro valor é o número sequencial e o segundo um número randômico gerado pela função Random.
-        5) Ordenar os itens pelo número randômico e criar um Array apenas com os números de 1 a 5 já embaralhados.
-        6) Retornar a sequência gerada utilizando o método Join para transformar o Array em uma String.
-        7) Exibir a sequência de números embaralhados.
+    <span class="pl-c"><span class="pl-c">1)</span> Criar uma função para gerar a sequência de números.</span>
+    <span class="pl-c"><span class="pl-c">2)</span> Criar uma lista do tipo dicionário para armarzenar dois valores inteiros.</span>
+    <span class="pl-c"><span class="pl-c">3)</span> Fazer um loop com a quantidade de iterações definida no parâmetro da função.</span>
+    <span class="pl-c"><span class="pl-c">4)</span> Para cada iteração do loop adicionar o item no dicionário onde o primeiro valor é o número sequencial e o segundo um número randômico gerado pela função Random.</span>
+    <span class="pl-c"><span class="pl-c">5)</span> Ordenar os itens pelo número randômico e criar um Array apenas com os números de 1 a 5 já embaralhados.</span>
+    <span class="pl-c"><span class="pl-c">6)</span> Retornar a sequência gerada utilizando o método Join para transformar o Array em uma String.</span>
+    <span class="pl-c"><span class="pl-c">7)</span> Exibir a sequência de números embaralhados.</span>
     <h2>:pencil: Licença</h2>
     <p>Este projeto está sob a licença do MIT. Veja o em <a href="https://github.com/fnascimento00/EmbaralharNumeros/blob/master/LICENSE.txt" rel="nofollow">LICENSE</a> para maiores informações.</p>
     <hr>
